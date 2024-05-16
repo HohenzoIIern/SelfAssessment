@@ -1,67 +1,78 @@
 - Fundamentals
-  - Arrays: 🙋 used
-  - Matrix: 🙋 used
-  - Vector: 🙋 used
-  - Scalar: 🙋 used
-  - String: 🙋 used
-  - Convolution: 🙋 used
-  - O(n) notation: 🙋 used
-  - RegEx: 🙋 used
+  - Arrays: 🖐️ used
+  - Matrix: 🖐️ used
+  - Vector: 🖐️ used
+  - Scalar: 🖐️ used
+  - String: 🖐️ used
+  - Convolution: 🙋 explained
+  - O(n) notation: 🙋 explained
+  - RegEx: 🖐️ used
   - tbd
 - Algorithms
   - Linear regression: 🙋 explained
   - Logistic regression: 🙋 explained
-  - K-means: 🙋 used
+  - K-means: 🖐️ used
   - DNN: 🙋 explained
   - CNN: 🙋 explained
   - RNN: 🙋 explained
-  - Scoring: 🙋 used
+  - Scoring: 🖐️ used
   - tbd
 - Structures
-  - Decision tree: 🙋 used
+  - Decision tree: 🖐️ used
   - Random forest: 🎓 known
-  - Simple Neuron: 🙋 used
-  - Convolution Neuron(filter): 🙋 used
-  - Recurrent Neuron: 🙋 used
-  - LSTM Neuron: 🙋 used
-  - Inception modules: 🙋 used
+  - Simple Neuron: 🙋 explained
+  - Convolution Neuron(filter): 🙋 explained
+  - Recurrent Neuron: 🙋 explained
+  - LSTM Neuron: 🙋 explained
+  - Inception modules: 📢 talked
   - GAN: 👂 heard
   - tbd
 - Python
-  - Lambda expressions: 🙋 used
-  - List: 🙋 used
-  - Array: 🙋 used
-  - Dictionary: 🙋 used
-  - Object: 🙋 used
-  - Class: 🙋 used
-  - pip: 🙋 used
-  - conda: 🙋 used
-  - I/O: 🙋 used
+  - Lambda expressions: 🖐️ used
+  - List: 🖐️ used
+  - Array: 🖐️ used
+  - Dictionary: 🖐️ used
+  - Object: 🖐️ used
+  - Class: 🖐️ used
+  - pip: 🖐️ used
+  - conda: 🖐️ used
+  - I/O: 🖐️ used
+  - tbd
+- Graphic processing:
+  - Python CUDA: 🖐️ used
+  - C CUDA: 🖐️ used
+  - GPU acceleration: 🖐️ used
+  - Concurrent streams: 🖐️ used
+  - Nvidia cuDNN: 🖐️ used
+  - Basic .cu syntax: 🖐️ used
+  - Basic device/host memory management: 🖐️ used
   - tbd
 - Libraries
-  - TensorFlow: 🙋 used
-  - PyTorch: 🙋 used
-  - NumPy: 🙋 used
-  - Pandas: 🙋 used
-  - Scikit-learn: 🙋 used
-  - random: 🙋 used
-  - math: 🙋 used
-  - re: 🙋 used
-  - opencv: 🙋 used
-  - soundfile: 🙋 used
-  - Keras: 🙋 used
-  - Matplotlib: 🙋 used
-  - jupyter: 🙋 used
+  - TensorFlow: 🖐️ used
+  - Tensorflow cuda: 🖐️ used
+  - PyTorch: 🖐️ used
+  - NumPy: 🖐️ used
+  - Pandas: 🖐️ used
+  - Scikit-learn: 🖐️ used
+  - random: 🖐️ used
+  - math: 🖐️ used
+  - re: 🖐️ used
+  - opencv: 🖐️ used
+  - soundfile: 🖐️ used
+  - Keras: 🖐️ used
+  - Matplotlib: 🖐️ used
+  - jupyter: 🖐️ used
+  - drive: 🖐️ used
   - tbd
 - Other
-  - Mathcad: 🙋 used
-  - Google colab: 🙋 used
-  - Matlab: 🙋 used
+  - Mathcad: 🖐️ used
+  - Google colab: 🖐️ used
+  - Matlab: 🖐️ used
   - R: 👂 heard
   - Julia: 👂 heard
   - Docker: 👂 heard
   - Kubernetes: 👂 heard
-  - Anaconda: 🙋 used
-  - Linux: 🙋 used
-  - VM: 🙋 used
+  - Anaconda: 🖐️ used
+  - Linux: 🖐️ used
+  - VM: 🖐️ used
   - tbd
